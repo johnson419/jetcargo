@@ -10,7 +10,8 @@ export default function Banner() {
       </div>
       <div className="absolute top-0 left-0 p-10 w-1/2">
         <p className="flex flex-wrap text-white-500 text-6xl">We are Transforming Logistics in Tanzania And Africa</p>
-        <p className="flex flex-wrap">Your trusted partner in cargo transportation, revolutionizing the logistics industry in Tanzania and across Africa</p>
+        <p className="flex flex-wrap text-2l mt-20">Your trusted partner in cargo transportation, revolutionizing the logistics industry in Tanzania and across Africa</p>
+      <button className="mt-20 text-2l">Get Started</button>
       </div>
     </div>
   );
