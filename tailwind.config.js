@@ -7,11 +7,12 @@ module.exports = {
   ],
   theme: {
     extend: {
+      textColor: ['hover', 'focus'],
       colors:
       {
         'dark-blue' : '#24273a',
         'deep-red' : '#a21c48',
-        'white' : '#fefffe'
+        'off-white' : '#fefffe'
       },
      
       backgroundImage: {
