@@ -12,7 +12,8 @@ module.exports = {
       {
         'dark-blue' : '#24273a',
         'deep-red' : '#a21c48',
-        'off-white' : '#fefffe'
+        'off-white' : '#fefffe',
+        'pale-red' : '#f9f5ec',
       },
      
       backgroundImage: {

@@ -1,3 +1,4 @@
+import AboutUs from "./components/aboutUs";
 import Banner from "./components/banner";
 import Header from "./components/header";
 import TopHeader from "./components/topheader";
@@ -8,6 +9,7 @@ export default function Home() {
       <TopHeader />
       <Header />
       <Banner />
+      <AboutUs />
     </div>
   );
 }
