@@ -6,6 +6,7 @@ export default function AboutUs() {
     <div className="grid grid-rows-1 grid-flow-col">
       <div className="">
         <div>
+        
           <p className="text-deep-red">ABOUT US</p>
           <p className="text-black text-4xl">
             Your Logistics Partner in Excellence
