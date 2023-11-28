@@ -12,7 +12,7 @@ export default function topheader() {
     <div className="flex flex-row bg-dark-blue h-[43px]">
      
       <div className="flex w-1/2 flex-row space-x-4">
-        Follow us :
+        Follow us:
         <FontAwesomeIcon
           icon={faFacebook}
           style={{ width: "13px", height: "13px" }}
